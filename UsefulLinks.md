@@ -6,7 +6,7 @@ title: Chronopsychiatry
 
 ## Our github repositories
 
-[Group resources](https://github.com/chronopsychiatry)
+[Repositories](https://github.com/chronopsychiatry)
 
 ## Media
 

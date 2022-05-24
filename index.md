@@ -3,7 +3,7 @@ title: Chronopsychiatry
 ---
 {% include navbar.html %}
 
-## <span style="color: black;"> About Chronopsychiatry group </span>
+## About Chronopsychiatry group
 
 ![wellcome graphic](happy-sad-clock.jpg)
 
