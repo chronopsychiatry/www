@@ -5,6 +5,8 @@ title: Chronopsichiatry members
 
 # Members of the Chronopsichiatry group
 
+How this text is rendered
+
 ## University of Edinburgh
 
 - Daniel Smith
