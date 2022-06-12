@@ -1,23 +1,20 @@
 ---
-title: Chronopsychiatry
+title: Chronopsychiatry Research Group
 ---
 
 
-{% include navbar.html %}
 
-## About Chronopsychiatry group
+## About Chronopsychiatry Research Group
 
 ![wellcome graphic](happy-sad-clock.jpg)
 
-Chronopsychiatry Research Group has been established by Professor Daniel Smith at the University of Edinburgh, to drive forward research at the interface between mental health and sleep/circadian science.
+The Chronopsychiatry Research Group was established by Professor Daniel Smith at the University of Edinburgh, to drive forward research at the interface between mental health and sleep/circadian science.
 
 
 ## Here are some useful links 
 
-{% include column.html %}
 
 
 
-{% include bottomnavbar.html %}
 
 
