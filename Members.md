@@ -1,7 +1,6 @@
 ---
 title: Chronopsychiatry members
 ---
-{% include navbar.html %} 
 
 # Members of the Chronopsychiatry group
 
@@ -31,4 +30,3 @@ How this text is rendered
 
 
 
-{% include bottomnavbar.html %}

@@ -1,7 +1,6 @@
 ---
 title: Chronopsychiatry
 ---
-{% include navbar.html %} 
 # Useful links
 
 ## Our github repositories
@@ -14,4 +13,3 @@ title: Chronopsychiatry
 
 
 
-{% include bottomnavbar.html %}
