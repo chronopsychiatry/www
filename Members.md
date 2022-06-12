@@ -1,9 +1,9 @@
 ---
-title: Chronopsichiatry members
+title: Chronopsychiatry members
 ---
 {% include navbar.html %} 
 
-# Members of the Chronopsichiatry group
+# Members of the Chronopsychiatry group
 
 How this text is rendered
 
