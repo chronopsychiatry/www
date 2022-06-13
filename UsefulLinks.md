@@ -1,7 +1,6 @@
 ---
-title: Chronopsychiatry
+title: Useful links
 ---
-# Useful links
 
 ## Our github repositories
 

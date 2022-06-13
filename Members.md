@@ -1,32 +1,30 @@
 ---
-title: Chronopsychiatry members
+title: Group Memember
 ---
 
-# Members of the Chronopsychiatry group
-
-How this text is rendered
-
-## University of Edinburgh
 
 - Daniel Smith
-- Heather Whalley
+- Amy Ferguson
 - Giulia Gaggioni
+- Andrew Millar
+- Tomasz Zieliński
+- Maria Gardani
+- Laura Lyall
+- Cathy Wyse
 - Aleks Stolicyn
-- Natasha Sangha
+
+## Affiliates
+- Breda Cullen
+- Heather Whalley
+- Donald Lyall
+- David Breen
+- Thanasis Tsanas
+- Sarah Gregory
+- Amber Roguski
+- Nikolaj Høier
 - Niamh MacSweeney
 - Reesha Zahir
-- Nikolaj Kjær Høier  
-- Tomasz Zieliński, 
-
-## University of Glasgow
-
-- Laura Lyall
-- Donald Lyall 
-
-## Maynooth University
-
-- Cathy Wyse
-- Lorna Lopez
-
+- Natasha Sangha
+- Sarah Harris 
 
 

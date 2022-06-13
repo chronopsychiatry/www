@@ -1,10 +1,9 @@
 ---
-title: Chronopsychiatry publications
+title: Our publications
 ---
 
-# Our selected publications
 
-Selected examples of our public outcomes.
+## Selected examples of our public outcomes.
 
 -  Effects of depression on employment and social outcomes: a Mendelian randomisation study  
 22 Mar 2022 In: Journal of Epidemiology & Community Health, pp. jech-2021-218074  
