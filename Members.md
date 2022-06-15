@@ -26,5 +26,5 @@ title: Group Memembers
 - Reesha Zahir
 - Natasha Sangha
 - Sarah Harris 
-
+- Emily Holian
 
