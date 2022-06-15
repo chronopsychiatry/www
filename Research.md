@@ -3,8 +3,8 @@ title: Our Research
 ---
 
 <div class="row row-cols-1 row-cols-md-2">
-
 <div class="col">
+
 ## Main themes
 
 ### Adolescent mental health
@@ -25,6 +25,7 @@ title: Our Research
 </div>
 
 <div class="col">
+
 ## Current PhD projects  
 
 - **Natasha Sangha**  
