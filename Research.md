@@ -2,6 +2,9 @@
 title: Our Research
 ---
 
+<div class="row row-cols-1 row-cols-md-2">
+
+<div class="col">
 ## Main themes
 
 ### Adolescent mental health
@@ -19,7 +22,9 @@ title: Our Research
 ### Genomics
 - Variation in core circadian network (CCN) genes and risk of depression/bipolar disorder
 
+</div>
 
+<div class="col">
 ## Current PhD projects  
 
 - **Natasha Sangha**  
@@ -36,3 +41,6 @@ Antidepressant and antipsychotic drug use and microvascular morbidity, cardiovas
 
 - **Reesha Zahir**  
 Investigating the mechanisms underlying sleep problems and mental ill health in autistic children and adolescents.
+
+</div>
+</div>

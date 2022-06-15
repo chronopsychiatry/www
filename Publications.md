@@ -1,9 +1,9 @@
 ---
-title: Our publications
+title: Some of our publications
 ---
 
 
-### Selected examples of our public outcomes.
+
 
  
 
