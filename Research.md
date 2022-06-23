@@ -40,15 +40,6 @@ title: Our Research
 <li><strong>Natasha Sangha</strong><br>  
 Integrating circadian, genomic and imaging data to understand mood disorders.</li>
 
-<li><strong>Xingxing Chen</strong><br>  
-Imaging genomics of physical and mental health comorbidity.</li>
-
-<li><strong>Hannah Casey</strong><br>  
-Genetic epidemiology of chronic pain and depression.</li>
-
-<li><strong>Charlotte Greene</strong><br>  
-Antidepressant and antipsychotic drug use and microvascular morbidity, cardiovascular morbidity, and all-cause and cause-specific mortality in mental illness comorbid with diabetes</li>
-
 <li><strong>Reesha Zahir</strong><br>  
 Investigating the mechanisms underlying sleep problems and mental ill health in autistic children and adolescents.</li>
 </ul>
