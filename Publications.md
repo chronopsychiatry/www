@@ -13,17 +13,6 @@ title: Some of our publications
         
           <div class="col mb-2">
             <div class="card h-100">
-              <h5 class="card-header">Campbell D <i>et al. <br> J Epidemiol Community Health</i> 2022</h5>
-              <div class="card-body">
-                <p class="card-text">Effects of depression on employment and social outcomes: a Mendelian randomisation study
-                </p>
-                <a href="https://doi.org/10.1136/jech-2021-218074" class="card-link">doi.org/10.1136/jech-2021-218074</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col mb-2">
-            <div class="card h-100">
               <h5 class="card-header">Sangha N <i>et al. <br>Bipolar Disorders </i> 2022</h5>
               <div class="card-body">
                 <p class="card-text">The nosological status of unipolar mania and  hypomania within UK Biobank according to objective and subjective measures of diurnal rest and activity. 
