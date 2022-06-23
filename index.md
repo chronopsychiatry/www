@@ -21,9 +21,9 @@ Our <b>vision</b> is to initiate and drive high value collaborative research at 
 
 <p>
 Endogenous 24-hour (circadian) rhythms are found across almost all forms of life, from plants to humans. These rhythms exist at multiple molecular and cellular levels and allow organisms to optimally align physiology and behaviour to daily cycles of light and dark. Well-synchronised circadian rhythms are fundamental for human health and are extremely important for cognitive function and mental wellbeing. The correct timing of exposure to light is critical for keeping human circadian rhythms synchronised to the external environment. 
-<br>
+</p><p>
 However, patterns of modern living (including shift-working and excess artificial light at night and sleep-disrupting drugs) cause desynchronization of rhythms and result in a wide range of adverse mental and physical health outcomes. This is particularly important for young people, who may be more sensitive to light-induced circadian dysfunction and associated mental health problems. 
-<br>
+</p><p>
 Even though conditions such as depression, bipolar disorder and psychosis are associated with aberrant circadian and seasonal rhythms affecting sleep/wake cycles, the mechanisms of these associations remain poorly understood. Where important chronobiological discoveries have been made, the clinical application of these within mental health has been limited. More generally, the fundamental importance of healthy rhythms of sleep has historically been overlooked within public mental health initiatives.
 </p>
 
